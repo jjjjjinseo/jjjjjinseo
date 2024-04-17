@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jjjjjinseo/jjjjjinseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +12,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 자기소개
-
- 안녕하세요! 컴퓨터공학을 전공하는 진서연입니다~~
-
-### 이력
- 🎓 영남대학교 컴퓨터공학과 재학중
-  
-### 연락처
- 📧 이메일: 22020306jinseoyeon@gmail.com
-
+<div align="left">
+<div style="display:flex; flex-direction:row;">
  
+ <a href="http://wlstj9317.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-ff7f50?style=flat-square&logo=Tistory&logoColor=white"/>
+ </a>
+ <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/>
+ <a href ="mail to:22020306jinseoyeon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+ </a>
+</div><br>
+<div>
+ 
+ ### Hi There!👋
+ <p>I am a computer engineering student 🎓 </p>
+ <span> and I am dreaming of becoming </span> <span><b>a back-end developer🔥</b></span>
+</div>
+<br>
+
+### ✨ Skills
+<p><b>Language & flatform</b></p>
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/JAVA-007396??style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+ <br>
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+</div>
+<br>
+
+
+</div>
+
 

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-### ✨ Skills
+### ✨ Learning ..
 <p><b>Language & flatform</b></p>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/JAVA-007396??style=flat-square&logo=java&logoColor=white">

@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 <div align="left">
 <div style="display:flex; flex-direction:row;">
  
- <a href="http://wlstj9317.tistory.com">
-  <img src="https://img.shields.io/badge/Tistory-ff7f50?style=flat-square&logo=Tistory&logoColor=white"/>
- </a>
  <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/>
  <a href ="mail to:22020306jinseoyeon@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+ </a>
+ <a href="http://wlstj9317.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-ff7f50?style=flat-square&logo=Tistory&logoColor=white"/>
  </a>
 </div><br>
 <div>
  
  ### Hi There!👋
- <p>I am a computer engineering student 🎓 </p>
- <span> and I am dreaming of becoming </span> <span><b>a back-end developer🔥</b></span>
+ <p>컴퓨터공학과 재학중인 진서연입니다.. 🎓 </p>
+ <p>한번 <b>열심히</b> 해볼라고 합니더..🔥 </p>
+ <div>잘 부탁드립니다~</div>
 </div>
 <br>
 

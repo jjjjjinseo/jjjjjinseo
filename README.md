@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  ### Hi There!👋
  <p>컴퓨터공학과 재학중인 진서연입니다.. 🎓 </p>
- <p>한번 <b>열심히</b> 해볼라고 합니더..🔥 </p>
+ <p>한번 열심히 해볼라고 합니다..🔥 </p>
  <div>잘 부탁드립니다~</div>
 </div>
 <br>

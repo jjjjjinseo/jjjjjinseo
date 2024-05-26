@@ -24,9 +24,10 @@ Here are some ideas to get you started:
  </a>
 </div><br>
 <div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjjjjinseo&show_icons=true&theme=swift">
-
+ 
+<img src="https://raw.githubusercontent.com/jjjjjinseo/github-stats-transparent/output/generated/overview.svg" width="30%"/>
+<img src="https://raw.githubusercontent.com/jjjjjinseo/github-stats-transparent/output/generated/languages.svg" width="30%" />
+ 
 ### ✨ Learning ..
 <p><b>Language & flatform</b></p>
 <div style="display:flex; flex-direction:row;">

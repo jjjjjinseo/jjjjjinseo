@@ -24,13 +24,7 @@ Here are some ideas to get you started:
  </a>
 </div><br>
 <div>
- 
- ### Hi There!👋
- <p>컴퓨터공학과 재학중인 진서연입니다.. 🎓 </p>
- <p>한번 열심히 해볼라고 합니다..🔥 </p>
- <div>잘 부탁드립니다~</div>
-</div>
-<br>
+
 
 ### ✨ Learning ..
 <p><b>Language & flatform</b></p>

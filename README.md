@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left">
+
+<div align="center">
 <div style="display:flex; flex-direction:row;">
  
  <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/>

@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-<div>
- 
 <img src="https://raw.githubusercontent.com/jjjjjinseo/github-stats-transparent/output/generated/overview.svg" width="30%"/>
 <img src="https://raw.githubusercontent.com/jjjjjinseo/github-stats-transparent/output/generated/languages.svg" width="30%" />
  
-### ✨ Learning ..
+### ⭐Activity
+- 2025 네이버부스트캠프 10기 웹모바일
+- 2024 멋쟁이사자처럼 12기 BE 부원
+ 
+### 🌱 Learning
 <p><b>Language & flatform</b></p>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/JAVA-007396??style=flat-square&logo=java&logoColor=white">
@@ -47,5 +47,7 @@ Here are some ideas to get you started:
 
 
 </div>
+
+
 
 

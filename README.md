@@ -1,27 +1,11 @@
-<!--
-**jjjjjinseo/jjjjjinseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://raw.githubusercontent.com/jjjjjinseo/github-stats-transparent/output/generated/overview.svg" width="30%"/>
-<img src="https://raw.githubusercontent.com/jjjjjinseo/github-stats-transparent/output/generated/languages.svg" width="30%" />
- 
-### ⭐Activity
+ ### ⭐Activity
 - 2025 네이버부스트캠프 10기 웹모바일
 - 2024 멋쟁이사자처럼 12기 BE 부원
  
-### 🌱 Learning
-<p><b>Language & flatform</b></p>
+### 🌱 Skill
+
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/JAVA-007396??style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -42,10 +26,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white">
    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
  
-</div>
-<br>
-
-
 </div>
 
 
